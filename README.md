@@ -1,6 +1,6 @@
-# Machine Learning Links and Lessons Learned
+# Machine Learning Links and Lessons Learned (Clone)
 
-List of all the lessons learned, best practices, and links from my time studying machine learning. 
+List of all the lessons learned, best practices, and links from my time studying machine learning.
 
 * [Learning Machine Learning](#learning-machine-learning)
 * [Best Courses](#best-courses)
