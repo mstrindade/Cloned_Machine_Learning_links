@@ -1,4 +1,4 @@
-# Machine Learning Links and Lessons Learned (Clone)
+# Machine Learning Links and Lessons Learned
 
 List of all the lessons learned, best practices, and links from my time studying machine learning.
 
